@@ -1,10 +1,4 @@
 
-### Which set of Amazon S3 features helps to prevent and recover from accidental data loss?
-
-- [ ] Object lifecycle and service access logging.
-- [x] Object versioning and Multi-factor authentication.
-- [ ] Access controls and server-side encryption.
-- [ ] Website hosting and Amazon S3 policies.
 
 **[⬆ Back to Top](#table-of-contents)**
 
