@@ -1,4 +1,4 @@
-### Topic 1
+### 
 
 A company is developing an application in the AWS Cloud. The application's HTTP API contains critical information that is published in Amazon
 API Gateway. The critical information must be accessible from only a limited set of trusted IP addresses that belong to the company's internal
@@ -13,7 +13,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company needs to give a globally distributed development team secure access to the company's AWS resources in a way that complies with
 security policies.
@@ -32,7 +32,7 @@ Which solution will meet these requirements with the LEAST operational overhead?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company has an application that runs on an Amazon Elastic Kubernetes Service (Amazon EKS) cluster on Amazon EC2 instances. The
 application has a UI that uses Amazon DynamoDB and data services that use Amazon S3 as part of the application deployment.
@@ -49,7 +49,7 @@ Which solution meals these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs an application in a private subnet behind an Application Load Balancer (ALB) in a VPC. The VPC has a NAT gateway and an
 internet gateway. The application calls the Amazon S3 API to store objects.
@@ -65,7 +65,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company's image-hosting website gives users around the world the ability to up load, view, and download images from their mobile devices. The
 company currently hosts the static website in an Amazon S3 bucket.
@@ -84,7 +84,7 @@ Which solution will meet these requirements with the LEAST implementation effort
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A digital image processing company wants to migrate its on-premises monolithic application to the AWS Cloud. The company processes
 thousands of images and generates large files as part of the processing workflow.
@@ -101,7 +101,7 @@ Which solution will meet these requirements with the LEAST operational overhead?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company's production environment consists of Amazon EC2 On-Demand Instances that run constantly between Monday and Saturday. The
 instances must run for only 12 hours on Sunday and cannot tolerate interruptions. The company wants to cost-optimize the production
@@ -116,7 +116,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company has a three-tier web application that processes orders from customers. The web tier consists of Amazon EC2 instances behind an
 Application Load Balancer. The processing tier consists of EC2 instances. The company decoupled the web tier and processing tier by using
@@ -151,7 +151,7 @@ Which combination of steps will securely integrate Amazon S3 with the applicatio
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs multiple workloads on virtual machines (VMs) in an on-premises data center. The company is expanding rapidly. The on-premises
 data center is not able to scale fast enough to meet business needs. The company wants to migrate the workloads to AWS.
@@ -168,7 +168,7 @@ Which combination of steps will meet these requirements? (Choose three.)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs an environment where data is stored in an Amazon S3 bucket. The objects are accessed frequently throughout the day. The
 company has strict da ta encryption requirements for data that is stored in the S3 bucket. The company currently uses AWS Key Management
@@ -185,7 +185,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts a website analytics application on a single Amazon EC2 On-Demand Instance. The analytics application is highly resilient and is
 designed to run in stateless mode.
@@ -202,7 +202,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A medical company wants to perform transformations on a large amount of clinical trial data that comes from several customers. The company
 must extract the data from a relational database that contains the customer data. Then the company will transform the data by using a series of
@@ -220,7 +220,7 @@ Which solution will meet these requirements with the LEAST amount of operational
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company uses AWS Systems Manager for routine management and patching of Amazon EC2 instances. The EC2 instances are in an IP address
 type target group behind an Application Load Balancer (ALB).
@@ -238,7 +238,7 @@ Which combination of solutions will resolve the errors? (Choose two.)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company tracks customer satisfaction by using surveys that the company hosts on its website. The surveys sometimes reach thousands of
 customers every hour. Survey results are currently sent in email messages to the company so company employees can manually review results
@@ -255,7 +255,7 @@ Which solution will meet these requirements in the MOST scalable way?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts its enterprise resource planning (ERP) system in the us-east-1 Region. The system runs on Amazon EC2 instances. Customers
 use a public API that is hosted on the EC2 instances to exchange information with the ERP system. International customers report slow API
@@ -270,7 +270,7 @@ Which solution will improve response times for the international customers MOST 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs its media rendering application on premises. The company wants to reduce storage costs and has moved all data to Amazon S3.
 The on-premises rendering application needs low-latency access to storage.
@@ -286,7 +286,7 @@ Which storage solution will meet these requirements in the MOST cost-effective w
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 An online gaming company is transitioning user data storage to Amazon DynamoDB to support the company's growing user base. The current
 architecture includes DynamoDB tables that contain user profiles, achievements, and in-game transactions.
@@ -303,7 +303,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company operates a food delivery service. Because of recent growth, the company's order processing system is experiencing scaling problems
 during peak traffic hours. The current architecture includes Amazon EC2 instances in an Auto Scaling group that collect orders from an
@@ -323,7 +323,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company currently stores 5 TB of data in on-premises block storage systems. The company's current storage solution provides limited space for
 additional data. The company runs applications on premises that must be able to retrieve frequently accessed data with low latency. The company
@@ -338,7 +338,7 @@ Which solution will meet these requirements with the MOST operational efficiency
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company is creating a prototype of an ecommerce website on AWS. The website consists of an Application Load Balancer, an Auto Scaling
 group of Amazon EC2 instances for web servers, and an Amazon RDS for MySQL DB instance that runs with the Single-AZ configuration.
@@ -356,7 +356,7 @@ What should the solutions architect recommend to improve the performance of the 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs its legacy web application on AWS. The web application server runs on an Amazon EC2 instance in the public subnet of a VPC.
 The web application server collects images from customers and stores the image files in a locally attached Amazon Elastic Block Store (Amazon
@@ -374,7 +374,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company is launching a new application that requires a structured database to store user profiles, application settings, and transactional data.
 The database must be scalable with application traffic and must offer backups.
@@ -388,7 +388,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs an on-premises application on a Kubernetes cluster. The company recently added millions of new customers. The company's
 existing on-premises infrastructure is unable to handle the large number of new customers. The company needs to migrate the on-premises
@@ -406,7 +406,7 @@ Which solution will meet these requirements with the LEAST operational overhead?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A streaming media company is rebuilding its infrastructure to accommodate increasing demand for video content that users consume daily.
 
@@ -423,7 +423,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts a multi-tier web application that uses an Amazon Aurora MySQL DB cluster for storage. The application tier is hosted on
 Amazon EC2 instances. The company's IT security guidelines mandate that the database credentials be encrypted and rotated every 14 days.
@@ -437,7 +437,7 @@ What should a solutions architect do to meet this requirement with the LEAST ope
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A solutions architect is creating an application that will handle batch processing of large amounts of data. The input data will be held in Amazon
 S3 and the output data will be stored in a different S3 bucket. For processing, the application will transfer the data over the network between
@@ -452,7 +452,7 @@ What should the solutions architect do to reduce the overall data transfer costs
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company's software development team needs an Amazon RDS Multi-AZ cluster. The RDS cluster will serve as a backend for a desktop client that
 is deployed on premises. The desktop client requires direct connectivity to the RDS cluster.
@@ -468,7 +468,7 @@ Which solution provides the required connectivity MOST securely?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company uses GPS trackers to document the migration patterns of thousands of sea turtles. The trackers check every 5 minutes to see if a
 turtle has moved more than 100 yards (91.4 meters). If a turtle has moved, its tracker sends the new coordinates to a web application running on
@@ -486,7 +486,7 @@ What should the solutions architect do to meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company is planning to migrate a legacy application to AWS. The application currently uses NFS to communicate to an on-premises storage
 solution to store application data. The application cannot be modified to use any other communication protocols other than NFS for this purpose.
@@ -500,7 +500,7 @@ Which storage solution should a solutions architect recommend for use after the 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company runs database workloads on AWS that are the backend for the company's customer portals. The company runs a Multi-AZ database
 cluster on Amazon RDS for PostgreSQL.
@@ -517,7 +517,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company is designing the architecture for a new mobile app that uses the AWS Cloud. The company uses organizational units (OUs) in AWS
 Organizations to manage its accounts. The company wants to tag Amazon EC2 instances with data sensitivity by using values of sensitive and
@@ -533,7 +533,7 @@ Which combination of steps will meet these requirements? (Choose two.)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company recently launched a new application for its customers. The application runs on multiple Amazon EC2 instances across two Availability
 Zones. End users use TCP to communicate with the application.
@@ -550,7 +550,7 @@ Which combination of steps will meet these requirements MOST cost-effectively? (
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company is testing an application that runs on an Amazon EC2 Linux instance. A single 500 GB Amazon Elastic Block Store (Amazon EBS)
 General Purpose SSO (gp2) volume is attached to the EC2 instance.
@@ -568,7 +568,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company stores user data in AWS. The data is used continuously with peak usage during business hours. Access patterns vary, with some data
 not being used for months at a time. A solutions architect must choose a cost-effective solution that maintains the highest level of durability
@@ -583,7 +583,7 @@ Which storage solution meets these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts its main public web application in one AWS Region across multiple Availability Zones. The application uses an Amazon EC2
 Auto Scaling group and an Application Load Balancer (ALB).
@@ -600,7 +600,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts its core network services, including directory services and DNS, in its on-premises data center. The data center is connected to
 the AWS Cloud using AWS Direct Connect (DX). Additional AWS accounts are planned that will require quick, cost-effective, and consistent access
@@ -615,7 +615,7 @@ What should a solutions architect implement to meet these requirements with the 
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company has an Amazon S3 bucket that contains sensitive data files. The company has an application that runs on virtual machines in an onpremises data center. The company currently uses AWS IAM Identity Center.
 
@@ -647,7 +647,7 @@ Which solution meets these requirements with the LEAST operational overhead?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company hosts its application on several Amazon EC2 instances inside a VPC. The company creates a dedicated Amazon S3 bucket for each
 customer to store their relevant information in Amazon S3.
@@ -902,7 +902,7 @@ Which solution will meet these requirements?
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Topic 1
+### 
 
 A company uses an Amazon DynamoDB table to store data that the company receives from devices. The DynamoDB table supports a customerfacing website to display recent activity on customer devices. The company configured the table with provisioned throughput for writes and reads.
 
@@ -2218,7 +2218,7 @@ https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associ
 
 AWS Certified Solutions Architect - Associate SAA-C03 Exam - Free Exam Q&As, Page 1 | ExamTopics
 
-Topic 1
+
 
 Question #869
 
